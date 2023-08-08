@@ -58,15 +58,26 @@ public class NetCoreCleanArchitectureDbContext : DbContext
 
         modelBuilder.Entity<Event>().HasData(new Event
         {
-            EventId = Guid.Parse("{EE272F8B-6096-4CB6-8625-BB4BB2D89E8B}"),
-            Name = "Peso Pluma Live",
-            Price = 5000,
-            Artist = "Peso Pluma",
-            Date = DateTime.Now.AddMonths(6),
-            Description = "El concierto mas perron del siglo, peso pluma en vivo!!!",
+            EventId = Guid.Parse("{3448D5A4-0F72-4DD7-BF15-C14A46B26C00}"),
+            Name = "Nathanael Cano, El Padre de los corridos Tumbados En Vivo",
+            Price = 6000,
+            Artist = "Nathanael Cano",
+            Date = DateTime.Now.AddMonths(7),
+            Description = "El padre de los corridos tumbados en vivo!!!!!!",
             ImageUrl = "someurl.png",
             CategoryId = concertGuid
+        });
 
+        modelBuilder.Entity<Event>().HasData(new Event
+        {
+            EventId = Guid.Parse("{B419A7CA-3321-4F38-8E8E-4D7B6A529319}"),
+            Name = "Bad Bunny, perreando hasta el suelo!!!",
+            Price = 8000,
+            Artist = "Bad Bunny",
+            Date = DateTime.Now.AddMonths(8),
+            Description = "La nueva sensacion del reggetton, Bad Bunny!!!!!!",
+            ImageUrl = "someurl.png",
+            CategoryId = concertGuid
         });
         base.OnModelCreating(modelBuilder);
     }
