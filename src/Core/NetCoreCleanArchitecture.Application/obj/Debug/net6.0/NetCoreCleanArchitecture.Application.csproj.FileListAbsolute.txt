@@ -1,0 +1,15 @@
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\bin\Debug\net6.0\NetCoreCleanArchitecture.Application.deps.json
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\bin\Debug\net6.0\NetCoreCleanArchitecture.Application.dll
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\bin\Debug\net6.0\NetCoreCleanArchitecture.Application.pdb
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\bin\Debug\net6.0\NetCoreCleanArchitecture.Domain.dll
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\bin\Debug\net6.0\NetCoreCleanArchitecture.Domain.pdb
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\obj\Debug\net6.0\NetCoreCleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\obj\Debug\net6.0\NetCoreCleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\obj\Debug\net6.0\NetCoreCleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\obj\Debug\net6.0\NetCoreCleanArchitecture.Application.AssemblyInfo.cs
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\obj\Debug\net6.0\NetCoreCleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\obj\Debug\net6.0\NetCoreCleanArchitecture.Application.csproj.CopyComplete
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\obj\Debug\net6.0\NetCoreCleanArchitecture.Application.dll
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\obj\Debug\net6.0\refint\NetCoreCleanArchitecture.Application.dll
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\obj\Debug\net6.0\NetCoreCleanArchitecture.Application.pdb
+C:\Pruebas\NetCoreCleanArchitecture\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\obj\Debug\net6.0\ref\NetCoreCleanArchitecture.Application.dll
