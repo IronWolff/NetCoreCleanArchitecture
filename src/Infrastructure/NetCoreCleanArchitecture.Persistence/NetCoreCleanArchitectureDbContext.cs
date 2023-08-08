@@ -1,10 +1,16 @@
 using Microsoft.EntityFrameworkCore;
+using NetCoreCleanArchitecture.Domain.Common;
 using NetCoreCleanArchitecture.Domain.Entities;
 
 namespace NetCoreCleanArchitecture.Persistence;
 
 public class NetCoreCleanArchitectureDbContext : DbContext
 {
+    public NetCoreCleanArchitectureDbContext(DbContextOptions<NetCoreCleanArchitectureDbContext> options) : base(options)
+    {
+        
+    }
+    
     public DbSet<Event> Events { get; set; }
     public DbSet<Category> Categories { get; set; }
     public DbSet<Order> Orders { get; set; }
@@ -80,5 +86,22 @@ public class NetCoreCleanArchitectureDbContext : DbContext
             CategoryId = concertGuid
         });
         base.OnModelCreating(modelBuilder);
+    }
+
+    public override Task<int> SaveChangesAsync(bool acceptAllChangesOnSuccess, CancellationToken cancellationToken = default)
+    {
+        foreach (var entry in ChangeTracker.Entries<AuditableEntity>())
+        {
+            switch (entry.State)
+            {
+                case EntityState.Added:
+                    entry.Entity.CreatedDate = DateTime.Now;
+                    break;
+                case EntityState.Modified:
+                    entry.Entity.LastModifiedDate = DateTime.Now;
+                    break;
+            }
+        }
+        return base.SaveChangesAsync(acceptAllChangesOnSuccess, cancellationToken);
     }
 }
