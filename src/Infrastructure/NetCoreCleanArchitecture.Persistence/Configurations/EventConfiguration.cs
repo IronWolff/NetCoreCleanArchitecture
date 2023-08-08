@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using NetCoreCleanArchitecture.Domain.Entities;
 
-namespace NetCoreCleanArchitecture.Infrastructure.Configurations;
+namespace NetCoreCleanArchitecture.Persistence.Configurations;
 
 public class EventConfiguration : IEntityTypeConfiguration<Event>
 {

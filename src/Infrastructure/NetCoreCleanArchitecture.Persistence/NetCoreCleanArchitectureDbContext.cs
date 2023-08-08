@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using NetCoreCleanArchitecture.Domain.Entities;
 
-namespace NetCoreCleanArchitecture.Infrastructure;
+namespace NetCoreCleanArchitecture.Persistence;
 
 public class NetCoreCleanArchitectureDbContext : DbContext
 {
