@@ -5,7 +5,7 @@ namespace NetCoreCleanArchitecture.Persistence.Repositories;
 
 public class BaseRepository<T> : IAsyncRepository<T> where T : class
 {
-    private readonly NetCoreCleanArchitectureDbContext _dbContext;
+    protected readonly NetCoreCleanArchitectureDbContext _dbContext;
     public BaseRepository(NetCoreCleanArchitectureDbContext dbContext)
     {
         _dbContext = dbContext;
