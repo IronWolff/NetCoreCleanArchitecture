@@ -12,7 +12,7 @@ public class CategoryRepository : BaseRepository<Category>, ICategoryRepository
 
     public Task<bool> CategoryNameTaken(string name)
     {
-        var nameIsTaken = _dbContext.Categories.Any(c => c.Name.Equals(name, StringComparison.InvariantCultureIgnoreCase));
+        var nameIsTaken = _dbContext.Categories.Any(c => c.Name == name);
         return Task.FromResult(nameIsTaken);
     }
 

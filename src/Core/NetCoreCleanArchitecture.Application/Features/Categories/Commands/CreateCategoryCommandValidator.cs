@@ -18,6 +18,6 @@ public class CreateCategoryCommandValidator : AbstractValidator<CreateCategoryCo
 
     private async Task<bool> NameAlreadyTaken(string name, CancellationToken token)
     {
-        return !(await _categoryRepository.CategoryNameTaken(name));
+        return !await _categoryRepository.CategoryNameTaken(name);
     }
 }
