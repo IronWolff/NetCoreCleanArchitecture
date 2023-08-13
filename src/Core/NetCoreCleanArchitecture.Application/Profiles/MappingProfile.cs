@@ -18,7 +18,7 @@ public class MappingProfile: Profile
         CreateMap<Event, EventListVm>().ReverseMap();
         CreateMap<Event, EventDetailVm>().ReverseMap();
         CreateMap<Event, CategoryEventDto>();
-        CreateMap<Category, CategoryDto>();
+        CreateMap<Category, CategoryDto>().ReverseMap();
         CreateMap<Category, CreateCategoryDto>();
         CreateMap<Category, CategoryListVm>();
         CreateMap<Category, CategoryEventListVm>();

@@ -13,7 +13,7 @@ public class CreateCategoryCommandValidator : AbstractValidator<CreateCategoryCo
         RuleFor(p => p.Name)
             .NotEmpty().WithMessage("{PropertyName} is required.")
             .NotNull()
-            .MustAsync(NameAlreadyTaken).WithMessage("There is an event already registered with that name");
+            .MustAsync(NameAlreadyTaken).WithMessage("There is a category already registered with that name");
     }
 
     private async Task<bool> NameAlreadyTaken(string name, CancellationToken token)

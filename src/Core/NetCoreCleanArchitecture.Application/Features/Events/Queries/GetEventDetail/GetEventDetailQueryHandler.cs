@@ -23,7 +23,7 @@ public class GetEventDetailQueryHandler : IRequestHandler<GetEventDetailQuery, E
     {
         var @event = await _eventRepository.GetByIdAsync(request.Id);
         var eventDetailDto = _mapper.Map<EventDetailVm>(@event);
-        var category = _categoryRepository.GetByIdAsync(@event.CategoryId);
+        var category = await _categoryRepository.GetByIdAsync(@event.CategoryId);
         eventDetailDto.Category = _mapper.Map<CategoryDto>(category);
         return eventDetailDto;
     }
