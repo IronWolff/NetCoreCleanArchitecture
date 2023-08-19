@@ -34,7 +34,7 @@ public class CategoryController : Controller
     }
 
     [HttpPost(Name = "AddCategory")]
-    public async Task<ActionResult<List<CategoryEventListVm>>> AddCategory([FromBody] CreateCategoryCommand category)
+    public async Task<ActionResult<CreateCategoryCommandResponse>> AddCategory([FromBody] CreateCategoryCommand category)
     {
         var response = await _mediator.Send(category);
         return Ok(response);

@@ -6,6 +6,7 @@ using NetCoreCleanArchitecture.Application.Features.Events.Commands.CreateEvent;
 using NetCoreCleanArchitecture.Application.Features.Events.Commands.DeleteCommand;
 using NetCoreCleanArchitecture.Application.Features.Events.Commands.UpdateEvent;
 using NetCoreCleanArchitecture.Application.Features.Events.Queries.GetEventDetail;
+using NetCoreCleanArchitecture.Application.Features.Events.Queries.GetEventsExport;
 using NetCoreCleanArchitecture.Application.Features.Events.Queries.GetEventsList;
 using NetCoreCleanArchitecture.Domain.Entities;
 
@@ -18,6 +19,7 @@ public class MappingProfile: Profile
         CreateMap<Event, EventListVm>().ReverseMap();
         CreateMap<Event, EventDetailVm>().ReverseMap();
         CreateMap<Event, CategoryEventDto>();
+        CreateMap<Event, EventExportDto>().ReverseMap();
         CreateMap<Category, CategoryDto>().ReverseMap();
         CreateMap<Category, CreateCategoryDto>();
         CreateMap<Category, CategoryListVm>();

@@ -2,6 +2,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using NetCoreCleanArchitecture.Application.Contracts.Infrastructure;
 using NetCoreCleanArchitecture.Application.Models.Mail;
+using NetCoreCleanArchitecture.Infrastructure.FileExport;
 using NetCoreCleanArchitecture.Infrastructure.Mail;
 
 namespace NetCoreCleanArchitecture.Infrastructure;
@@ -13,6 +14,7 @@ public static class InfrastructureServiceRegistration
         services.Configure<EmailSettings>(configuration.GetSection("EmailSettings"));
 
         services.AddTransient<IEmailService, EmailService>();
+        services.AddTransient<ICsvExporter, CsvExporter>();
         return services;
     }
 }
