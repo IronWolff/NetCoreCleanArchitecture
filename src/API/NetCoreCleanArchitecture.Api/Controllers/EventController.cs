@@ -1,5 +1,6 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using NetCoreCleanArchitecture.Api.Utility;
 using NetCoreCleanArchitecture.Application.Features.Categories.Queries.GetCategoriesListWithEvents;
 using NetCoreCleanArchitecture.Application.Features.Events.Commands.CreateEvent;
 using NetCoreCleanArchitecture.Application.Features.Events.Commands.DeleteCommand;
@@ -62,6 +63,7 @@ public class EventController : Controller
     }
 
     [HttpGet("export", Name = "ExportEvents")]
+    [FileResultContentType("text/csv")]
     public async Task<FileResult> ExportEvents()
     {
         var fileDto = await _mediator.Send(new GetEventsExportQuery());

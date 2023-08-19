@@ -1,5 +1,7 @@
 using System.Diagnostics;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
+using NetCoreCleanArchitecture.Api.Utility;
 using NetCoreCleanArchitecture.Application;
 using NetCoreCleanArchitecture.Infrastructure;
 using NetCoreCleanArchitecture.Persistence;
@@ -9,6 +11,7 @@ public static class StartupExtensions
 {
     public static WebApplication ConfigureServices(this WebApplicationBuilder builder)
     {
+        AddSwagger(builder);
         builder.Services.AddApplicationServices();
         builder.Services.AddInfrastructureServices(builder.Configuration);
         builder.Services.AddPersistenceServices(builder.Configuration);
@@ -18,13 +21,23 @@ public static class StartupExtensions
         {
             options.AddPolicy("Open", builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
         });
+        return builder.Build();
+    }
 
+    private static void AddSwagger(WebApplicationBuilder builder)
+    {
         if (builder.Environment.IsDevelopment())
         {
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddSwaggerGen(c => 
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {  
+                    Version = "v1",
+                    Title = "NetCoreCleanArchitecture API"
+                });
+                c.OperationFilter<FileResultContentTypeOperationFilter>();
+            });
         }
-
-        return builder.Build();
     }
 
     public static WebApplication ConfigurePipeline(this WebApplication app)
@@ -39,7 +52,7 @@ public static class StartupExtensions
             app.UseSwagger();
             app.UseSwaggerUI(options =>
             {
-                options.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
+                options.SwaggerEndpoint("/swagger/v1/swagger.json", "NetCoreCleanArchitecture API");
                 options.RoutePrefix = string.Empty;
             });
         }
