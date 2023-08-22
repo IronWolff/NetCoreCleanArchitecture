@@ -20,6 +20,10 @@ nupkg/
 # Code Rush
 .cr/
 
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
 # User-specific files
 *.suo
 *.user
@@ -41,3 +45,5 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+test/*/[Bb]in/
+test/*/[Oo]bj/
