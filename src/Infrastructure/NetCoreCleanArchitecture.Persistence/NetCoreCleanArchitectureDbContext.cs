@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using NetCoreCleanArchitecture.Application.Contracts;
 using NetCoreCleanArchitecture.Domain.Common;
 using NetCoreCleanArchitecture.Domain.Entities;
 
@@ -6,11 +7,19 @@ namespace NetCoreCleanArchitecture.Persistence;
 
 public class NetCoreCleanArchitectureDbContext : DbContext
 {
+    private readonly ILoggedInUserService _loggedInUserService;
     public NetCoreCleanArchitectureDbContext(DbContextOptions<NetCoreCleanArchitectureDbContext> options) : base(options)
     {
-        
+
     }
-    
+
+    public NetCoreCleanArchitectureDbContext(
+        DbContextOptions<NetCoreCleanArchitectureDbContext> options, 
+        ILoggedInUserService loggedInUserService) : base(options)
+    {
+        _loggedInUserService = loggedInUserService;
+    }
+
     public DbSet<Event> Events { get; set; }
     public DbSet<Category> Categories { get; set; }
     public DbSet<Order> Orders { get; set; }
@@ -96,9 +105,11 @@ public class NetCoreCleanArchitectureDbContext : DbContext
             {
                 case EntityState.Added:
                     entry.Entity.CreatedDate = DateTime.Now;
+                    entry.Entity.CreatedBy = _loggedInUserService.UserId;
                     break;
                 case EntityState.Modified:
                     entry.Entity.LastModifiedDate = DateTime.Now;
+                    entry.Entity.LastModifiedBy = _loggedInUserService.UserId;
                     break;
             }
         }
