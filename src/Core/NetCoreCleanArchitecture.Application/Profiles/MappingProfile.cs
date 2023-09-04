@@ -17,15 +17,15 @@ public class MappingProfile: Profile
     public MappingProfile()
     {
         CreateMap<Event, EventListVm>().ReverseMap();
+        CreateMap<Event, CreateEventCommand>().ReverseMap();
+        CreateMap<Event, UpdateEventCommand>().ReverseMap();
         CreateMap<Event, EventDetailVm>().ReverseMap();
-        CreateMap<Event, CategoryEventDto>();
+        CreateMap<Event, CategoryEventDto>().ReverseMap();
         CreateMap<Event, EventExportDto>().ReverseMap();
+        
         CreateMap<Category, CategoryDto>().ReverseMap();
         CreateMap<Category, CreateCategoryDto>();
         CreateMap<Category, CategoryListVm>();
         CreateMap<Category, CategoryEventListVm>();
-        CreateMap<Event, CreateEventCommand>().ReverseMap();
-        CreateMap<Event, UpdateEventCommand>().ReverseMap();
-        CreateMap<Event, DeleteEventCommand>().ReverseMap();
     }
 }

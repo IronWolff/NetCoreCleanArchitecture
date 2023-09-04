@@ -1,3 +1,4 @@
+using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using NetCoreCleanArchitecture.Application.Contracts.Infrastructure;
 using NetCoreCleanArchitecture.Application.Models.Mail;
@@ -9,9 +10,11 @@ namespace NetCoreCleanArchitecture.Infrastructure.Mail;
 public class EmailService : IEmailService
 {
     private readonly EmailSettings _emailSettings;
-    public EmailService(IOptions<EmailSettings> mailSettings)
+    private readonly ILogger<EmailService> _logger;
+    public EmailService(IOptions<EmailSettings> mailSettings, ILogger<EmailService> logger)
     {
         _emailSettings = mailSettings.Value;
+        _logger = logger;
     }
     public async Task<bool> SendEmail(Email email)
     {
@@ -29,11 +32,12 @@ public class EmailService : IEmailService
 
         var sendGridMessage = MailHelper.CreateSingleEmail(from, to, subject, body, body);
         var response = await client.SendEmailAsync(sendGridMessage);
-
+        _logger.LogInformation("Email sent");
         if(response.StatusCode == System.Net.HttpStatusCode.Accepted || response.StatusCode == System.Net.HttpStatusCode.OK)
         {
             return true;
         }
+        _logger.LogError("Email sending failed");
 
         return false;
     }

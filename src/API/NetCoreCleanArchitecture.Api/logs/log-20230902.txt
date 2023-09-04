@@ -1,0 +1,120 @@
+2023-09-02 11:11:45.820 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-02 11:11:45.853 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-02 11:11:45.858 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-02 11:11:45.859 -07:00 [INF] Hosting environment: Development
+2023-09-02 11:11:45.859 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-02 11:12:35.463 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 447.6563 ms
+2023-09-02 11:12:47.510 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 36.4796 ms
+2023-09-02 11:12:55.461 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 4.1112 ms
+2023-09-02 11:13:08.987 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 1.7994 ms
+2023-09-02 11:13:21.587 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 1.6718 ms
+2023-09-02 11:13:28.496 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 1.7592 ms
+2023-09-02 11:13:49.884 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 317.4021 ms
+2023-09-02 11:14:01.342 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 9.6721 ms
+2023-09-02 11:14:08.744 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.7946 ms
+2023-09-02 11:14:11.000 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 3.0611 ms
+2023-09-02 11:14:11.376 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.4213 ms
+2023-09-02 11:14:11.744 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.9684 ms
+2023-09-02 11:14:11.994 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.6966 ms
+2023-09-02 11:14:12.240 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 3.0637 ms
+2023-09-02 11:14:12.460 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.7009 ms
+2023-09-02 11:14:12.763 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.8080 ms
+2023-09-02 11:14:12.945 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.6613 ms
+2023-09-02 11:14:13.150 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 3.2451 ms
+2023-09-02 11:14:13.363 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.6892 ms
+2023-09-02 11:14:49.494 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-02 11:14:49.519 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-02 11:14:49.523 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-02 11:14:49.524 -07:00 [INF] Hosting environment: Development
+2023-09-02 11:14:49.524 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-02 11:14:55.209 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 460.3879 ms
+2023-09-02 11:14:56.320 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 37.8469 ms
+2023-09-02 11:14:56.473 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 4.4413 ms
+2023-09-02 11:14:56.649 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 2.5378 ms
+2023-09-02 11:14:56.802 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 1.9915 ms
+2023-09-02 11:14:56.965 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 2.5847 ms
+2023-09-02 11:14:57.144 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 2.6277 ms
+2023-09-02 11:14:57.311 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 2.4075 ms
+2023-09-02 11:15:08.388 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 313.5580 ms
+2023-09-02 11:15:10.902 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 5.3766 ms
+2023-09-02 11:15:11.699 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 3.4128 ms
+2023-09-02 11:15:12.323 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.3834 ms
+2023-09-02 11:15:12.754 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.3012 ms
+2023-09-02 11:15:12.935 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.7611 ms
+2023-09-02 11:15:13.119 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.4921 ms
+2023-09-02 11:15:13.317 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.5805 ms
+2023-09-02 11:15:13.493 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.6481 ms
+2023-09-02 11:15:13.672 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.6080 ms
+2023-09-02 11:15:13.851 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.7648 ms
+2023-09-02 11:15:14.044 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.4614 ms
+2023-09-02 11:15:14.221 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.2972 ms
+2023-09-02 11:15:14.398 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.7446 ms
+2023-09-02 11:15:14.585 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.9862 ms
+2023-09-02 11:15:14.750 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.7264 ms
+2023-09-02 11:15:14.926 -07:00 [INF] HTTP GET /api/Category/allwithevents responded 200 in 2.5229 ms
+2023-09-02 11:30:47.187 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-02 11:30:47.213 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-02 11:30:47.217 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-02 11:30:47.218 -07:00 [INF] Hosting environment: Development
+2023-09-02 11:30:47.218 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-02 11:32:13.788 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 445.7801 ms
+2023-09-02 11:33:06.570 -07:00 [ERR] HTTP POST /api/Event responded 500 in 6155.2808 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetCoreCleanArchitecture.Persistence.NetCoreCleanArchitectureDbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) in D:\Repos\NetCoreCleanArchitecture\src\Infrastructure\NetCoreCleanArchitecture.Persistence\NetCoreCleanArchitectureDbContext.cs:line 108
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at NetCoreCleanArchitecture.Persistence.Repositories.BaseRepository`1.AddAsync(T entity) in D:\Repos\NetCoreCleanArchitecture\src\Infrastructure\NetCoreCleanArchitecture.Persistence\Repositories\BaseRepository.cs:line 16
+   at NetCoreCleanArchitecture.Application.Features.Events.Commands.CreateEvent.CreateEventCommandHandler.Handle(CreateEventCommand request, CancellationToken cancellationToken) in D:\Repos\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\Features\Events\Commands\CreateEvent\CreateEventCommandHandler.cs:line 36
+   at NetCoreCleanArchitecture.Api.Controllers.EventController.AddCategory(CreateEventCommand createEventCommand) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Controllers\EventController.cs:line 41
+   at lambda_method97(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-09-02 11:33:48.575 -07:00 [ERR] HTTP POST /api/Event responded 500 in 19164.9048 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetCoreCleanArchitecture.Persistence.NetCoreCleanArchitectureDbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) in D:\Repos\NetCoreCleanArchitecture\src\Infrastructure\NetCoreCleanArchitecture.Persistence\NetCoreCleanArchitectureDbContext.cs:line 108
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at NetCoreCleanArchitecture.Persistence.Repositories.BaseRepository`1.AddAsync(T entity) in D:\Repos\NetCoreCleanArchitecture\src\Infrastructure\NetCoreCleanArchitecture.Persistence\Repositories\BaseRepository.cs:line 16
+   at NetCoreCleanArchitecture.Application.Features.Events.Commands.CreateEvent.CreateEventCommandHandler.Handle(CreateEventCommand request, CancellationToken cancellationToken) in D:\Repos\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\Features\Events\Commands\CreateEvent\CreateEventCommandHandler.cs:line 36
+   at NetCoreCleanArchitecture.Api.Controllers.EventController.AddCategory(CreateEventCommand createEventCommand) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Controllers\EventController.cs:line 41
+   at lambda_method97(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-09-02 11:34:06.612 -07:00 [ERR] HTTP POST /api/Event responded 500 in 14518.4879 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetCoreCleanArchitecture.Persistence.NetCoreCleanArchitectureDbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) in D:\Repos\NetCoreCleanArchitecture\src\Infrastructure\NetCoreCleanArchitecture.Persistence\NetCoreCleanArchitectureDbContext.cs:line 108
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(CancellationToken cancellationToken)
+   at NetCoreCleanArchitecture.Persistence.Repositories.BaseRepository`1.AddAsync(T entity) in D:\Repos\NetCoreCleanArchitecture\src\Infrastructure\NetCoreCleanArchitecture.Persistence\Repositories\BaseRepository.cs:line 16
+   at NetCoreCleanArchitecture.Application.Features.Events.Commands.CreateEvent.CreateEventCommandHandler.Handle(CreateEventCommand request, CancellationToken cancellationToken) in D:\Repos\NetCoreCleanArchitecture\src\Core\NetCoreCleanArchitecture.Application\Features\Events\Commands\CreateEvent\CreateEventCommandHandler.cs:line 36
+   at NetCoreCleanArchitecture.Api.Controllers.EventController.AddCategory(CreateEventCommand createEventCommand) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Controllers\EventController.cs:line 41
+   at lambda_method97(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)

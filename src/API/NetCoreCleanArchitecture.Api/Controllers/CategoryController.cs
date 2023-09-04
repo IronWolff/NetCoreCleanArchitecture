@@ -1,4 +1,5 @@
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using NetCoreCleanArchitecture.Application.Features.Categories.Commands.CreateCategory;
 using NetCoreCleanArchitecture.Application.Features.Categories.Queries.GetCategoriesList;
@@ -6,6 +7,7 @@ using NetCoreCleanArchitecture.Application.Features.Categories.Queries.GetCatego
 
 namespace NetCoreCleanArchitecture.Api.Controllers;
 
+[Authorize]
 [Route("api/[controller]")]
 public class CategoryController : Controller
 {

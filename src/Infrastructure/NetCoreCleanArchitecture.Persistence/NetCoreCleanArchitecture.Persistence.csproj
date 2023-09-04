@@ -8,8 +8,8 @@
     <ProjectReference Include="..\..\Core\NetCoreCleanArchitecture.Application\NetCoreCleanArchitecture.Application.csproj"/>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.10"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10"/>
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="7.0.0"/>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.10"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10"/>
   </ItemGroup>
 </Project>

@@ -6,13 +6,19 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0"/>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.10"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10"/>
     <PackageReference Include="MediatR" Version="12.1.1"/>
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.5.0"/>
+    <PackageReference Include="Serilog" Version="3.0.1"/>
+    <PackageReference Include="Serilog.AspNetCore" Version="7.0.0"/>
+    <PackageReference Include="Serilog.Extensions.Logging" Version="7.0.0"/>
+    <PackageReference Include="Serilog.Sinks.File" Version="5.0.0"/>
+    <PackageReference Include="Serilog.Settings.Configuration" Version="7.0.1"/>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\NetCoreCleanArchitecture.Application\NetCoreCleanArchitecture.Application.csproj"/>
     <ProjectReference Include="..\..\Infrastructure\NetCoreCleanArchitecture.Infrastructure\NetCoreCleanArchitecture.Infrastructure.csproj"/>
     <ProjectReference Include="..\..\Infrastructure\NetCoreCleanArchitecture.Persistence\NetCoreCleanArchitecture.Persistence.csproj"/>
+    <ProjectReference Include="..\..\Infrastructure\NetCoreCleanArchitecture.Identity\NetCoreCleanArchitecture.Identity.csproj"/>
   </ItemGroup>
 </Project>

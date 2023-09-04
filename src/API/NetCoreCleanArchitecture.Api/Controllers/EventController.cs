@@ -1,4 +1,5 @@
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using NetCoreCleanArchitecture.Api.Utility;
 using NetCoreCleanArchitecture.Application.Features.Categories.Queries.GetCategoriesListWithEvents;
@@ -11,6 +12,7 @@ using NetCoreCleanArchitecture.Application.Features.Events.Queries.GetEventsList
 
 namespace NetCoreCleanArchitecture.Api.Controllers;
 
+[Authorize]
 [Route("api/[controller]")]
 public class EventController : Controller
 {
@@ -36,7 +38,7 @@ public class EventController : Controller
     }
 
     [HttpPost(Name = "AddEvent")]
-    public async Task<ActionResult<Guid>> AddCategory([FromBody] CreateEventCommand createEventCommand)
+    public async Task<ActionResult<Guid>> AddEvent([FromBody] CreateEventCommand createEventCommand)
     {
         var id = await _mediator.Send(createEventCommand);
         return Ok(id);

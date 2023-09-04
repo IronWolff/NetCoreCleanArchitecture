@@ -1,5 +1,6 @@
 using AutoMapper;
 using MediatR;
+using Microsoft.Extensions.Logging;
 using NetCoreCleanArchitecture.Application.Contracts.Infrastructure;
 using NetCoreCleanArchitecture.Application.Contracts.Persistence;
 using NetCoreCleanArchitecture.Application.Exceptions;
@@ -13,11 +14,13 @@ public class CreateEventCommandHandler : IRequestHandler<CreateEventCommand, Gui
     private readonly IEventRepository _eventRepository;
     private readonly IMapper _mapper;
     private readonly IEmailService _emailService;
-    public CreateEventCommandHandler(IMapper mapper, IEventRepository eventRepository, IEmailService emailService)
+    private readonly ILogger<CreateEventCommand> _logger;
+    public CreateEventCommandHandler(IMapper mapper, IEventRepository eventRepository, IEmailService emailService, ILogger<CreateEventCommand> logger)
     {
         _mapper = mapper;
         _eventRepository = eventRepository;
         _emailService = emailService;
+        _logger = logger;
     }
     public async Task<Guid> Handle(CreateEventCommand request, CancellationToken cancellationToken)
     {
@@ -36,8 +39,10 @@ public class CreateEventCommandHandler : IRequestHandler<CreateEventCommand, Gui
         {
             await _emailService.SendEmail(email);
         }
-        catch (System.Exception)
+        catch (Exception ex)
         {
+            // email failed does not stop the process so this can be logged.
+            _logger.LogError($"Mailing about event {@event.EventId} failed due to an error with the mail service: {ex.Message}");
         }
         return @event.EventId;
     }
