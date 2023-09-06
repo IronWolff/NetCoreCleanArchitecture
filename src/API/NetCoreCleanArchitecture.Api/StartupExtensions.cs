@@ -102,11 +102,11 @@ public static class StartupExtensions
                 }
             });
 
-            // c.SwaggerDoc("v1", new OpenApiInfo
-            // {
-            //     Version = "v1",
-            //     Title = "NetCoreCleanArchitecture API"
-            // });
+            c.SwaggerDoc("v1", new OpenApiInfo
+            {
+                Version = "v1",
+                Title = "NetCoreCleanArchitecture API"
+            });
             c.OperationFilter<FileResultContentTypeOperationFilter>();
         });
     }
