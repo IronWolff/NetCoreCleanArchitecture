@@ -7,6 +7,8 @@ using NetCoreCleanArchitecture.Infrastructure;
 using NetCoreCleanArchitecture.Persistence;
 using NetCoreCleanArchitecture.Identity;
 using NetCoreCleanArchitecture.Application.Contracts;
+using Swashbuckle.AspNetCore.SwaggerGen;
+using Serilog;
 
 namespace NetCoreCleanArchitecture.Api;
 public static class StartupExtensions
@@ -100,11 +102,11 @@ public static class StartupExtensions
                 }
             });
 
-            c.SwaggerDoc("v1", new OpenApiInfo
-            {
-                Version = "v1",
-                Title = "NetCoreCleanArchitecture API"
-            });
+            // c.SwaggerDoc("v1", new OpenApiInfo
+            // {
+            //     Version = "v1",
+            //     Title = "NetCoreCleanArchitecture API"
+            // });
             c.OperationFilter<FileResultContentTypeOperationFilter>();
         });
     }
@@ -115,7 +117,7 @@ public static class StartupExtensions
         try
         {
             var context = scope.ServiceProvider.GetService<NetCoreCleanArchitectureDbContext>();
-            if (context != null)
+            if (context != null && context.Database.IsRelational())
             {
                 await context.Database.EnsureDeletedAsync();
                 await context.Database.MigrateAsync();
@@ -123,8 +125,7 @@ public static class StartupExtensions
         }
         catch (Exception ex)
         {
-            var logger = scope.ServiceProvider.GetRequiredService<ILogger>();
-            logger.LogError(ex, "An error occurred while migrating the database.");
+            Log.Error(ex, "An error occurred while migrating the database.");
         }
     }
 }

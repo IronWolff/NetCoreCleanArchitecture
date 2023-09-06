@@ -790,3 +790,8 @@ System.Exception: User with ediaz not found.
 2023-09-03 19:29:47.526 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 2.2102 ms
 2023-09-03 19:29:48.121 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 2.3417 ms
 2023-09-03 19:29:48.753 -07:00 [INF] HTTP GET /api/Category/all responded 200 in 1.9978 ms
+2023-09-03 21:22:06.270 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-03 21:22:06.294 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-03 21:22:06.297 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-03 21:22:06.298 -07:00 [INF] Hosting environment: Development
+2023-09-03 21:22:06.298 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\

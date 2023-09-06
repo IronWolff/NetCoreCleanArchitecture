@@ -12,12 +12,15 @@ public class CustomWebApplicationFactory<TStartup>
 {
     protected override void ConfigureWebHost(IWebHostBuilder builder)
     {
+
         builder.ConfigureServices(services =>
         {
+            var descriptor = services.Single(d => d.ServiceType == typeof(DbContextOptions<NetCoreCleanArchitectureDbContext>));
+            services.Remove(descriptor);
 
             services.AddDbContext<NetCoreCleanArchitectureDbContext>(options =>
             {
-                options.UseInMemoryDatabase("NetCoreCleanArchitectureInMemoryDbContext");
+                options.UseInMemoryDatabase("NetCoreCleanArchitectureInMemoryTest");
             });
 
             var sp = services.BuildServiceProvider();
@@ -44,15 +47,6 @@ public class CustomWebApplicationFactory<TStartup>
 
     public HttpClient GetAnonymousClient()
     {
-        try
-        {
-            return CreateClient();    
-        }
-        catch (System.Exception ex)
-        {
-            
-            throw;
-        }
-        
+        return CreateClient();
     }
 }
