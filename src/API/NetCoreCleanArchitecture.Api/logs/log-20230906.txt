@@ -3,3 +3,28 @@
 2023-09-06 13:47:22.475 -07:00 [INF] Application started. Press Ctrl+C to shut down.
 2023-09-06 13:47:22.476 -07:00 [INF] Hosting environment: Development
 2023-09-06 13:47:22.476 -07:00 [INF] Content root path: C:\Pruebas\Repo\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-06 19:39:10.568 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-06 19:39:10.595 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-06 19:39:10.598 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-06 19:39:10.598 -07:00 [INF] Hosting environment: Development
+2023-09-06 19:39:10.599 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-06 19:49:42.526 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-06 19:49:42.552 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-06 19:49:42.555 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-06 19:49:42.555 -07:00 [INF] Hosting environment: Development
+2023-09-06 19:49:42.555 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-06 20:02:43.062 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-06 20:02:43.086 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-06 20:02:43.089 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-06 20:02:43.090 -07:00 [INF] Hosting environment: Development
+2023-09-06 20:02:43.090 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-06 21:01:37.615 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-06 21:01:37.645 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-06 21:01:37.647 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-06 21:01:37.648 -07:00 [INF] Hosting environment: Development
+2023-09-06 21:01:37.648 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-06 21:04:20.449 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-06 21:04:20.473 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-06 21:04:20.476 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-06 21:04:20.476 -07:00 [INF] Hosting environment: Development
+2023-09-06 21:04:20.477 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\

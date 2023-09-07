@@ -4,6 +4,8 @@ using NetCoreCleanArchitecture.Application.Models.Authentication;
 
 namespace NetCoreCleanArchitecture.Api.Controllers;
 
+[Route("api/[controller]")]
+[ApiController]
 public class AccountController : Controller
 {
     private readonly IAuthenticationService _authenticationService;
