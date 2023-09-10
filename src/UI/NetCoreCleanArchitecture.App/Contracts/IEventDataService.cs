@@ -1,3 +1,4 @@
+using NetCoreCleanArchitecture.App.Services;
 using NetCoreCleanArchitecture.App.Services.Base;
 using NetCoreCleanArchitecture.App.ViewModels;
 
@@ -10,4 +11,5 @@ public interface IEventDataService
     Task<ApiResponse<Guid>> CreateEvent(EventDetailViewModel eventDetailViewModel);
     Task<ApiResponse<Guid>> UpdateEvent(EventDetailViewModel eventDetailViewModel);
     Task<ApiResponse<Guid>> DeleteEvent(Guid id);
+    Task<byte[]> ExportEvents();
 }

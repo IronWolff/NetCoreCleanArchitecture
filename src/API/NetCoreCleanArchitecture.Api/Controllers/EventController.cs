@@ -32,7 +32,7 @@ public class EventController : Controller
     }
 
     [HttpGet("{id}", Name = "GetEventById")]
-    public async Task<ActionResult<List<CategoryEventListVm>>> GetCategoriesWithEvents(Guid id)
+    public async Task<ActionResult<List<EventDetailVm>>> GetCategoriesWithEvents(Guid id)
     {
         return Ok(await _mediator.Send(new GetEventDetailQuery { Id = id }));
     }

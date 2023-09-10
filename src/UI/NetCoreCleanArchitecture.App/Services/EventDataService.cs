@@ -41,6 +41,14 @@ public class EventDataService : BaseDataService, IEventDataService
         }
     }
 
+    public async Task<byte[]> ExportEvents()
+    {
+        var csv = await _client.ExportEventsAsync();
+        var memStream = new MemoryStream();
+        csv.Stream.CopyTo(memStream);
+        return memStream.ToArray();
+    }
+
     public async Task<List<EventListViewModel>> GetAllEvents()
     {
         var allEvents = await _client.GetAllEventsAsync();

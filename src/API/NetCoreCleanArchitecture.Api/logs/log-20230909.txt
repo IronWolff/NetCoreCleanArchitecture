@@ -1,0 +1,335 @@
+2023-09-09 09:50:53.628 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 09:50:53.659 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 09:50:53.663 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 09:50:53.663 -07:00 [INF] Hosting environment: Development
+2023-09-09 09:50:53.663 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 10:05:33.293 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 10:05:33.319 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 10:05:33.322 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 10:05:33.322 -07:00 [INF] Hosting environment: Development
+2023-09-09 10:05:33.322 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 10:06:46.245 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 10:06:46.271 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 10:06:46.275 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 10:06:46.275 -07:00 [INF] Hosting environment: Development
+2023-09-09 10:06:46.275 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 10:07:05.424 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 10:07:05.450 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 10:07:05.453 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 10:07:05.453 -07:00 [INF] Hosting environment: Development
+2023-09-09 10:07:05.453 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 10:08:17.515 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 10:08:17.543 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 10:08:17.546 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 10:08:17.546 -07:00 [INF] Hosting environment: Development
+2023-09-09 10:08:17.546 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 10:08:59.956 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 10:08:59.984 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 10:08:59.988 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 10:08:59.989 -07:00 [INF] Hosting environment: Development
+2023-09-09 10:08:59.989 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 10:09:57.465 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 10:09:57.491 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 10:09:57.494 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 10:09:57.494 -07:00 [INF] Hosting environment: Development
+2023-09-09 10:09:57.494 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 10:45:50.977 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 10:45:51.005 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 10:45:51.008 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 10:45:51.009 -07:00 [INF] Hosting environment: Development
+2023-09-09 10:45:51.009 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 10:51:28.726 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 10:51:28.766 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 10:51:28.769 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 10:51:28.769 -07:00 [INF] Hosting environment: Development
+2023-09-09 10:51:28.769 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 11:31:47.289 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 11:31:47.315 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 11:31:47.318 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 11:31:47.319 -07:00 [INF] Hosting environment: Development
+2023-09-09 11:31:47.319 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 11:32:32.728 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 11:32:32.753 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 11:32:32.757 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 11:32:32.757 -07:00 [INF] Hosting environment: Development
+2023-09-09 11:32:32.757 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 11:42:33.850 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 11:42:33.880 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 11:42:33.883 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 11:42:33.884 -07:00 [INF] Hosting environment: Development
+2023-09-09 11:42:33.884 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 11:48:25.081 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 11:48:25.112 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 11:48:25.116 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 11:48:25.117 -07:00 [INF] Hosting environment: Development
+2023-09-09 11:48:25.117 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 12:12:39.697 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 12:12:39.734 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 12:12:39.738 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 12:12:39.738 -07:00 [INF] Hosting environment: Development
+2023-09-09 12:12:39.738 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 12:14:25.785 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 12:14:25.814 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 12:14:25.817 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 12:14:25.817 -07:00 [INF] Hosting environment: Development
+2023-09-09 12:14:25.818 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 12:15:34.552 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 12:15:34.583 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 12:15:34.586 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 12:15:34.587 -07:00 [INF] Hosting environment: Development
+2023-09-09 12:15:34.587 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 13:21:49.123 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-09-09 13:21:49.139 -07:00 [WRN] The response has already started, the error page middleware will not be executed.
+2023-09-09 13:21:49.146 -07:00 [ERR] Connection id "0HMTHD4I97NUO", Request id "0HMTHD4I97NUO:0000000F": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-09 13:24:14.445 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 13:24:14.478 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 13:24:14.481 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 13:24:14.482 -07:00 [INF] Hosting environment: Development
+2023-09-09 13:24:14.482 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 13:24:48.722 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-09-09 13:24:48.726 -07:00 [WRN] The response has already started, the error page middleware will not be executed.
+2023-09-09 13:24:48.734 -07:00 [ERR] Connection id "0HMTHEAU3LH45", Request id "0HMTHEAU3LH45:00000003": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-09 13:25:16.816 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-09-09 13:25:16.816 -07:00 [WRN] The response has already started, the error page middleware will not be executed.
+2023-09-09 13:25:16.819 -07:00 [ERR] Connection id "0HMTHEAU3LH45", Request id "0HMTHEAU3LH45:00000007": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-09 13:25:47.644 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 13:25:47.687 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 13:25:47.693 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 13:25:47.694 -07:00 [INF] Hosting environment: Development
+2023-09-09 13:25:47.694 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 13:30:53.625 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-09-09 13:29:19.884 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-09-09 13:30:53.626 -07:00 [WRN] The response has already started, the error page middleware will not be executed.
+2023-09-09 13:30:53.626 -07:00 [WRN] The response has already started, the error page middleware will not be executed.
+2023-09-09 13:30:53.633 -07:00 [ERR] Connection id "0HMTHEBPSMRT6", Request id "0HMTHEBPSMRT6:00000003": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-09 13:30:53.633 -07:00 [ERR] Connection id "0HMTHEBPSMRT6", Request id "0HMTHEBPSMRT6:00000007": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-09 13:32:14.643 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-09-09 13:32:14.644 -07:00 [WRN] The response has already started, the error page middleware will not be executed.
+2023-09-09 13:32:14.646 -07:00 [ERR] Connection id "0HMTHEBPSMRT6", Request id "0HMTHEBPSMRT6:0000000B": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-09 13:32:16.471 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-09-09 13:32:16.472 -07:00 [WRN] The response has already started, the error page middleware will not be executed.
+2023-09-09 13:32:16.473 -07:00 [ERR] Connection id "0HMTHEBPSMRT6", Request id "0HMTHEBPSMRT6:0000000F": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-09 13:39:30.771 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 13:39:30.799 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 13:39:30.802 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 13:39:30.803 -07:00 [INF] Hosting environment: Development
+2023-09-09 13:39:30.803 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 13:41:28.838 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 13:41:28.877 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 13:41:28.882 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 13:41:28.883 -07:00 [INF] Hosting environment: Development
+2023-09-09 13:41:28.883 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 16:36:07.321 -07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-09-09 16:36:07.334 -07:00 [WRN] The response has already started, the error page middleware will not be executed.
+2023-09-09 16:36:07.342 -07:00 [ERR] Connection id "0HMTHEKICLLUI", Request id "0HMTHEKICLLUI:0000000B": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.ConvertException(HttpContext context, Exception exception) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 32
+   at NetCoreCleanArchitecture.Api.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext context) in D:\Repos\NetCoreCleanArchitecture\src\API\NetCoreCleanArchitecture.Api\Middleware\ExceptionHandlerMiddleware.cs:line 24
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-09 16:40:03.715 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 16:40:03.748 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 16:40:03.751 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 16:40:03.751 -07:00 [INF] Hosting environment: Development
+2023-09-09 16:40:03.751 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 16:47:13.617 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 16:47:13.651 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 16:47:13.655 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 16:47:13.655 -07:00 [INF] Hosting environment: Development
+2023-09-09 16:47:13.655 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 16:48:52.672 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 16:48:52.702 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 16:48:52.705 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 16:48:52.705 -07:00 [INF] Hosting environment: Development
+2023-09-09 16:48:52.705 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 17:01:39.413 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 17:01:39.447 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 17:01:39.449 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 17:01:39.450 -07:00 [INF] Hosting environment: Development
+2023-09-09 17:01:39.450 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 17:05:29.479 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 17:05:29.507 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 17:05:29.510 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 17:05:29.511 -07:00 [INF] Hosting environment: Development
+2023-09-09 17:05:29.511 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 17:08:00.406 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 17:08:00.432 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 17:08:00.436 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 17:08:00.436 -07:00 [INF] Hosting environment: Development
+2023-09-09 17:08:00.436 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
+2023-09-09 17:08:43.079 -07:00 [INF] Now listening on: https://localhost:7120
+2023-09-09 17:08:43.110 -07:00 [INF] Now listening on: http://localhost:5136
+2023-09-09 17:08:43.113 -07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-09 17:08:43.114 -07:00 [INF] Hosting environment: Development
+2023-09-09 17:08:43.114 -07:00 [INF] Content root path: D:\Repos\NetCoreCleanArchitecture\src\Api\NetCoreCleanArchitecture.Api\
